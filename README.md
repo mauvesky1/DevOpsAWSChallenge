@@ -23,4 +23,4 @@ An EC2 instance runs inside the public subnet with its own security group, and t
 
 
 The final result:
-![Final]
+![Final](https://github.com/mauvesky1/DevOpsAWSChallenge/blob/main/ImageFiles/FinalResult.png?raw=true)
